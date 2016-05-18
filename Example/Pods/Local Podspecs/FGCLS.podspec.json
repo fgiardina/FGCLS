@@ -1,0 +1,19 @@
+{
+  "name": "FGCLS",
+  "version": "0.1.0",
+  "summary": "A short description of FGCLS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/FGCLS",
+  "license": "MIT",
+  "authors": {
+    "Fernando Giardina": "fernando.giardina@etermax.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/FGCLS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FGCLS/Classes/**/*"
+}

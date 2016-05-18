@@ -1,0 +1,16 @@
+PODS:
+  - FGCLS (0.1.0)
+
+DEPENDENCIES:
+  - FGCLS (from `../`)
+
+EXTERNAL SOURCES:
+  FGCLS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FGCLS: ac35fbfb0664c2693d1ca2e4f77a0e5a0367bb24
+
+PODFILE CHECKSUM: cf7f4c1ec0307c6389be26be6a9fcb77efe2dcb9
+
+COCOAPODS: 1.0.0.beta.6
