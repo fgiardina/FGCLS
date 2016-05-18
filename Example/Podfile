@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FGCLS_Tests' do
+  pod 'FGCLS', :path => '../'
+  
+  
+end
